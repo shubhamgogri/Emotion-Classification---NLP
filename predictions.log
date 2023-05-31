@@ -1,0 +1,17 @@
+2023-05-23 19:17:30,373 - Input Text: I'm very thankful for your help!  Model Prediction: gratitude
+2023-05-23 19:18:28,643 - Input Text: the movie was amazing  /s  Model Prediction: neutral
+2023-05-23 19:18:45,903 - Input Text: hello how are you?  Model Prediction: anger
+2023-05-23 19:29:03,044 - Input Text: please tell me you have other pokemon in your party  Model Prediction: admiration
+2023-05-24 01:13:36,404 - Input Text: it's really hot out today  Model Prediction: neutral
+2023-05-24 02:20:15,275 - Input Text: Lol, the last sentence  Model Prediction: love
+2023-05-24 02:21:27,571 - Input Text: Only 3 hours \U0001f62d  Model Prediction: neutral
+2023-05-24 02:22:17,777 - Input Text: Yes! Only we're worried that after remaining what if it doesn't work with the api  Model Prediction: disappointment
+2023-05-24 02:23:39,059 - Input Text: Me 2, can we meet at 12 or 13?  Model Prediction: neutral
+2023-05-24 02:25:59,382 - Input Text: Start Deployment today?  Model Prediction: neutral
+2023-05-24 02:28:15,389 - Input Text: She just like me frfr  Model Prediction: anger
+2023-05-24 02:31:26,475 - Input Text: Look me in the eyes.. tell me what u see.... Perfect paradise  Model Prediction: admiration
+2023-05-24 02:32:27,410 - Input Text: i get the impression that this is the first time they have run a chemistry module  Model Prediction: sadness
+2023-05-24 02:33:58,790 - Input Text: I am absolutely heart-broken.   Model Prediction: neutral
+2023-05-24 02:35:15,313 - Input Text: to the people that say that his SA levels suck: skill issue get good  Model Prediction: admiration
+2023-05-24 02:36:44,675 - Input Text: too much of a blanket statement tho  Model Prediction: neutral
+2023-05-24 13:03:34,409 - Input Text: i'm stressed  Model Prediction: neutral
